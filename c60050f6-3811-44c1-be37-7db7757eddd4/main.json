@@ -1,1 +1,1 @@
-{"allocations": {"SPXL": 20.0, "XLF": 20.0, "XLE": 20.0, "XLI": 20.0, "VOO": 20.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"SPXL": 20.0, "XLF": 20.0, "XLE": 20.0, "XLI": 20.0, "VOO": 20.0}, "frequency": 30, "name": "Untitled Strategy", "period": "days"}
