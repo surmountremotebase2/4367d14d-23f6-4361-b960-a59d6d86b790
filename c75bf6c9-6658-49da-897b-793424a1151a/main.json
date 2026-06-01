@@ -1,1 +1,1 @@
-{"allocations": {"VARIABLE_LOSER_1": 20.0, "VARIABLE_LOSER_2": 20.0, "VARIABLE_LOSER_3": 20.0, "VARIABLE_LOSER_4": 20.0, "VARIABLE_LOSER_5": 20.0}, "frequency": 1, "name": "GDC Bounce-back Strategy", "period": "days"}
+{"allocations": {"VARIABLE_LOSER_1": 25.0, "VARIABLE_LOSER_2": 25.0, "VARIABLE_LOSER_4": 25.0, "VARIABLE_LOSER_5": 25.0}, "frequency": 1, "name": "GDC Bounce-back Strategy", "period": "days"}
