@@ -1,1 +1,1 @@
-{"allocations": {"DYNAMIC_LOSER_1": 20.0, "DYNAMIC_LOSER_2": 20.0, "DYNAMIC_LOSER_3": 20.0, "DYNAMIC_LOSER_4": 20.0, "DYNAMIC_LOSER_5": 20.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"HISTORICAL_LOSER_1": 20.0, "HISTORICAL_LOSER_2": 20.0, "HISTORICAL_LOSER_3": 20.0, "HISTORICAL_LOSER_4": 20.0, "HISTORICAL_LOSER_5": 20.0}, "frequency": 1, "name": "", "period": "days"}
