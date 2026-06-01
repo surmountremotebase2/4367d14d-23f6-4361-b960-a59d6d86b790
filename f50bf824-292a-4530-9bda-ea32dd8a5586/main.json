@@ -1,1 +1,1 @@
-{"allocations": {"DYNAMIC_LOSER_1": 33.34, "DYNAMIC_LOSER_2": 33.33, "DYNAMIC_LOSER_3": 33.33}, "frequency": 1, "name": "Untitled Strategy", "period": "days"}
+{"allocations": {"DYNAMIC_LOSER_1": 33.34, "DYNAMIC_LOSER_2": 33.33, "DYNAMIC_LOSER_3": 33.33}, "frequency": 1, "name": "GDC Dynamic Loser Buyback (Daily rebalance)", "period": "days"}
