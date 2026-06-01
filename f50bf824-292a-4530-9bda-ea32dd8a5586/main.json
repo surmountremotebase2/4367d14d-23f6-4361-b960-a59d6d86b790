@@ -1,1 +1,1 @@
-{"allocations": {"SPY": 50.0, "QQQ": 30.0, "IWM": 10.0, "VTI": 5.0, "CASH": 5.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"DYNAMIC_LOSER_1": 20.0, "DYNAMIC_LOSER_2": 20.0, "DYNAMIC_LOSER_3": 20.0, "DYNAMIC_LOSER_4": 20.0, "DYNAMIC_LOSER_5": 20.0}, "frequency": 1, "name": "", "period": "days"}
