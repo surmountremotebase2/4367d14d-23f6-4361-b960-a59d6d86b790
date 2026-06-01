@@ -1,1 +1,1 @@
-{"allocations": {"SQQQ": 30.0, "SPXS": 25.0, "VXX": 20.0, "SH": 15.0, "UVXY": 10.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"SQQQ": 30.0, "SPXS": 25.0, "VXX": 20.0, "SH": 15.0, "UVXY": 10.0}, "frequency": 30, "name": "Untitled Strategy 1", "period": "days"}
